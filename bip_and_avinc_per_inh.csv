@@ -1,0 +1,896 @@
+﻿lfd;eu;reg;land;nuts1;nuts2;nuts3;Gebietseinheit;ve_pp;bip_pp;Einwohner
+1;DE1;08;BW;1;;;Baden-Württemberg;  24 892  ;  46 480  ;11046
+2;DE11;081;BW;;2;;Stuttgart, Regierungsbezirk;  25 569  ;  53 144  ;4135
+3;DE111;08111;BW;;;3;Stuttgart, Landeshauptstadt, Stadtkreis;  25 788  ;  90 518  ;634
+4;DE112;08115;BW;;;3;Böblingen, Landkreis;  25 597  ;  66 535  ;391
+5;DE113;08116;BW;;;3;Esslingen, Landkreis;  25 582  ;  42 726  ;533
+6;DE114;08117;BW;;;3;Göppingen, Landkreis;  24 173  ;  34 635  ;257
+7;DE115;08118;BW;;;3;Ludwigsburg, Landkreis;  26 203  ;  46 974  ;543
+8;DE116;08119;BW;;;3;Rems-Murr-Kreis;  25 631  ;  35 442  ;426
+9;DE117;08121;BW;;;3;Heilbronn, Stadtkreis;  36 883  ;  55 707  ;126
+10;DE118;08125;BW;;;3;Heilbronn, Landkreis;  24 968  ;  55 623  ;342
+11;DE119;08126;BW;;;3;Hohenlohekreis;  24 642  ;  50 815  ;112
+12;DE11A;08127;BW;;;3;Schwäbisch Hall, Landkreis;  23 637  ;  42 201  ;195
+13;DE11B;08128;BW;;;3;Main-Tauber-Kreis;  23 546  ;  39 770  ;132
+14;DE11C;08135;BW;;;3;Heidenheim, Landkreis;  23 046  ;  36 717  ;132
+15;DE11D;08136;BW;;;3;Ostalbkreis;  24 599  ;  44 978  ;313
+16;DE12;082;BW;;2;;Karlsruhe, Regierungsbezirk;  24 136  ;  44 471  ;2800
+17;DE121;08211;BW;;;3;Baden-Baden, Stadtkreis;  32 416  ;  54 776  ;55
+18;DE122;08212;BW;;;3;Karlsruhe, Stadtkreis;  22 814  ;  65 518  ;313
+19;DE123;08215;BW;;;3;Karlsruhe, Landkreis;  24 295  ;  37 869  ;443
+20;DE124;08216;BW;;;3;Rastatt, Landkreis;  23 646  ;  44 287  ;231
+21;DE125;08221;BW;;;3;Heidelberg, Stadtkreis;  23 703  ;  57 123  ;160
+22;DE126;08222;BW;;;3;Mannheim, Universitätsstadt, Stadtkreis;  22 054  ;  67 775  ;309
+23;DE127;08225;BW;;;3;Neckar-Odenwald-Kreis;  22 648  ;  32 272  ;143
+24;DE128;08226;BW;;;3;Rhein-Neckar-Kreis;  25 278  ;  34 291  ;547
+25;DE129;08231;BW;;;3;Pforzheim, Stadtkreis;  22 510  ;  40 484  ;125
+26;DE12A;08235;BW;;;3;Calw, Landkreis;  24 437  ;  29 286  ;158
+27;DE12B;08236;BW;;;3;Enzkreis;  26 013  ;  31 072  ;199
+28;DE12C;08237;BW;;;3;Freudenstadt, Landkreis;  24 843  ;  40 058  ;118
+29;DE13;083;BW;;2;;Freiburg, Regierungsbezirk;  24 830  ;  38 835  ;2260
+30;DE131;08311;BW;;;3;Freiburg im Breisgau, Stadtkreis;  22 135  ;  51 794  ;230
+31;DE132;08315;BW;;;3;Breisgau-Hochschwarzwald, Landkreis;  24 865  ;  30 165  ;263
+32;DE133;08316;BW;;;3;Emmendingen, Landkreis;  23 587  ;  32 988  ;165
+33;DE134;08317;BW;;;3;Ortenaukreis;  23 948  ;  41 282  ;428
+34;DE135;08325;BW;;;3;Rottweil, Landkreis;  25 306  ;  43 834  ;139
+35;DE136;08326;BW;;;3;Schwarzwald-Baar-Kreis;  24 999  ;  40 195  ;212
+36;DE137;08327;BW;;;3;Tuttlingen, Landkreis;  26 022  ;  51 351  ;140
+37;DE138;08335;BW;;;3;Konstanz, Landkreis;  25 486  ;  35 093  ;285
+38;DE139;08336;BW;;;3;Lörrach, Landkreis;  27 462  ;  33 765  ;228
+39;DE13A;08337;BW;;;3;Waldshut, Landkreis;  25 622  ;  31 239  ;170
+40;DE14;084;BW;;2;;Tübingen, Regierungsbezirk;  24 602  ;  43 963  ;1851
+41;DE141;08415;BW;;;3;Reutlingen, Landkreis;  24 763  ;  40 454  ;286
+42;DE142;08416;BW;;;3;Tübingen, Landkreis;  23 613  ;  34 031  ;227
+43;DE143;08417;BW;;;3;Zollernalbkreis;  25 743  ;  35 695  ;189
+44;DE144;08421;BW;;;3;Ulm, Universitätsstadt, Stadtkreis;  25 773  ;  77 208  ;126
+45;DE145;08425;BW;;;3;Alb-Donau-Kreis;  23 854  ;  32 093  ;195
+46;DE146;08426;BW;;;3;Biberach, Landkreis;  24 077  ;  52 846  ;199
+47;DE147;08435;BW;;;3;Bodenseekreis;  26 555  ;  51 324  ;215
+48;DE148;08436;BW;;;3;Ravensburg, Landkreis;  24 132  ;  45 098  ;284
+49;DE149;08437;BW;;;3;Sigmaringen, Landkreis;  22 902  ;  38 368  ;131
+50;DE2;09;BY;1;;;Bayern;  25 309  ;  47 302  ;13037
+51;DE21;091;BY;;2;;Oberbayern, Regierungsbezirk;  28 384  ;  58 193  ;4668
+52;DE211;09161;BY;;;3;Ingolstadt, Kreisfreie Stadt;  24 352  ;  127 792  ;136
+53;DE212;09162;BY;;;3;München, Landeshauptstadt, Kreisfreie Stadt;  32 766  ;  79 690  ;1464
+54;DE213;09163;BY;;;3;Rosenheim, Kreisfreie Stadt;  23 416  ;  51 494  ;63
+55;DE214;09171;BY;;;3;Altötting, Landkreis;  23 358  ;  48 993  ;111
+56;DE215;09172;BY;;;3;Berchtesgadener Land, Landkreis;  22 547  ;  33 571  ;105
+57;DE216;09173;BY;;;3;Bad Tölz-Wolfratshausen, Landkreis;  26 750  ;  29 994  ;127
+58;DE217;09174;BY;;;3;Dachau, Landkreis;  25 827  ;  29 196  ;153
+59;DE218;09175;BY;;;3;Ebersberg, Landkreis;  27 503  ;  33 127  ;141
+60;DE219;09176;BY;;;3;Eichstätt, Landkreis;  24 771  ;  36 001  ;132
+61;DE21A;09177;BY;;;3;Erding, Landkreis;  25 170  ;  30 853  ;137
+62;DE21B;09178;BY;;;3;Freising, Landkreis;  24 459  ;  49 898  ;179
+63;DE21C;09179;BY;;;3;Fürstenfeldbruck, Landkreis;  26 361  ;  26 573  ;219
+64;DE21D;09180;BY;;;3;Garmisch-Partenkirchen, Landkreis;  24 842  ;  30 321  ;88
+65;DE21E;09181;BY;;;3;Landsberg am Lech, Landkreis;  25 998  ;  35 825  ;120
+66;DE21F;09182;BY;;;3;Miesbach, Landkreis;  29 168  ;  36 551  ;99
+67;DE21G;09183;BY;;;3;Mühldorf a.Inn, Landkreis;  23 859  ;  34 709  ;115
+68;DE21H;09184;BY;;;3;München, Landkreis;  31 122  ;  110 283  ;348
+69;DE21I;09185;BY;;;3;Neuburg-Schrobenhausen, Landkreis;  24 338  ;  37 599  ;96
+70;DE21J;09186;BY;;;3;Pfaffenhofen a.d.Ilm, Landkreis;  26 045  ;  35 593  ;127
+71;DE21K;09187;BY;;;3;Rosenheim, Landkreis;  25 784  ;  33 026  ;260
+72;DE21L;09188;BY;;;3;Starnberg, Landkreis;  35 356  ;  45 549  ;136
+73;DE21M;09189;BY;;;3;Traunstein, Landkreis;  24 434  ;  41 176  ;177
+74;DE21N;09190;BY;;;3;Weilheim-Schongau, Landkreis;  25 481  ;  41 432  ;135
+75;DE22;092;BY;;2;;Niederbayern, Regierungsbezirk;  23 249  ;  39 041  ;1234
+76;DE221;09261;BY;;;3;Landshut, Kreisfreie Stadt;  24 526  ;  56 684  ;72
+77;DE222;09262;BY;;;3;Passau, Kreisfreie Stadt;  21 088  ;  68 044  ;52
+78;DE223;09263;BY;;;3;Straubing, Kreisfreie Stadt;  22 207  ;  53 008  ;48
+79;DE224;09271;BY;;;3;Deggendorf, Landkreis;  23 020  ;  40 623  ;119
+80;DE225;09272;BY;;;3;Freyung-Grafenau, Landkreis;  22 058  ;  30 427  ;78
+81;DE226;09273;BY;;;3;Kelheim, Landkreis;  23 499  ;  31 816  ;122
+82;DE227;09274;BY;;;3;Landshut, Landkreis;  24 979  ;  36 445  ;158
+83;DE228;09275;BY;;;3;Passau, Landkreis;  22 094  ;  31 067  ;191
+84;DE229;09276;BY;;;3;Regen, Landkreis;  21 567  ;  32 720  ;78
+85;DE22A;09277;BY;;;3;Rottal-Inn, Landkreis;  23 751  ;  33 109  ;121
+86;DE22B;09278;BY;;;3;Straubing-Bogen, Landkreis;  23 480  ;  28 440  ;100
+87;DE22C;09279;BY;;;3;Dingolfing-Landau, Landkreis;  24 859  ;  61 168  ;96
+88;DE23;093;BY;;2;;Oberpfalz, Regierungsbezirk;  23 107  ;  42 588  ;1107
+89;DE231;09361;BY;;;3;Amberg, Kreisfreie Stadt;  21 981  ;  61 617  ;42
+90;DE232;09362;BY;;;3;Regensburg, Kreisfreie Stadt;  23 093  ;  87 245  ;152
+91;DE233;09363;BY;;;3;Weiden i.d.OPf., Kreisfreie Stadt;  22 439  ;  55 976  ;43
+92;DE234;09371;BY;;;3;Amberg-Sulzbach, Landkreis;  22 751  ;  27 788  ;103
+93;DE235;09372;BY;;;3;Cham, Landkreis;  23 002  ;  37 787  ;128
+94;DE236;09373;BY;;;3;Neumarkt i.d.OPf., Landkreis;  24 718  ;  39 375  ;133
+95;DE237;09374;BY;;;3;Neustadt a.d.Waldnaab, Landkreis;  22 309  ;  32 190  ;94
+96;DE238;09375;BY;;;3;Regensburg, Landkreis;  24 184  ;  25 547  ;193
+97;DE239;09376;BY;;;3;Schwandorf, Landkreis;  22 104  ;  36 678  ;147
+98;DE23A;09377;BY;;;3;Tirschenreuth, Landkreis;  22 122  ;  36 434  ;73
+99;DE24;094;BY;;2;;Oberfranken, Regierungsbezirk;  23 104  ;  38 286  ;1067
+100;DE241;09461;BY;;;3;Bamberg, Kreisfreie Stadt;  22 047  ;  63 945  ;77
+101;DE242;09462;BY;;;3;Bayreuth, Kreisfreie Stadt;  21 069  ;  63 954  ;74
+102;DE243;09463;BY;;;3;Coburg, Kreisfreie Stadt;  24 754  ;  98 042  ;41
+103;DE244;09464;BY;;;3;Hof, Kreisfreie Stadt;  20 353  ;  43 132  ;46
+104;DE245;09471;BY;;;3;Bamberg, Landkreis;  23 121  ;  26 300  ;147
+105;DE246;09472;BY;;;3;Bayreuth, Landkreis;  22 691  ;  21 797  ;104
+106;DE247;09473;BY;;;3;Coburg, Landkreis;  26 362  ;  27 065  ;87
+107;DE248;09474;BY;;;3;Forchheim, Landkreis;  24 725  ;  30 519  ;116
+108;DE249;09475;BY;;;3;Hof, Landkreis;  22 200  ;  35 285  ;96
+109;DE24A;09476;BY;;;3;Kronach, Landkreis;  23 120  ;  33 056  ;67
+110;DE24B;09477;BY;;;3;Kulmbach, Landkreis;  23 725  ;  35 353  ;72
+111;DE24C;09478;BY;;;3;Lichtenfels, Landkreis;  22 301  ;  36 212  ;67
+112;DE24D;09479;BY;;;3;Wunsiedel i.Fichtelgebirge, Landkreis;  22 480  ;  34 923  ;73
+113;DE25;095;BY;;2;;Mittelfranken, Regierungsbezirk;  24 016  ;  45 292  ;1765
+114;DE251;09561;BY;;;3;Ansbach, Kreisfreie Stadt;  22 559  ;  58 222  ;42
+115;DE252;09562;BY;;;3;Erlangen, Kreisfreie Stadt;  24 712  ;  98 097  ;111
+116;DE253;09563;BY;;;3;Fürth, Kreisfreie Stadt;  23 795  ;  37 656  ;127
+117;DE254;09564;BY;;;3;Nürnberg, Kreisfreie Stadt;  22 748  ;  60 711  ;517
+118;DE255;09565;BY;;;3;Schwabach, Kreisfreie Stadt;  26 190  ;  36 114  ;41
+119;DE256;09571;BY;;;3;Ansbach, Landkreis;  23 483  ;  31 306  ;184
+120;DE257;09572;BY;;;3;Erlangen-Höchstadt, Landkreis;  26 313  ;  38 568  ;136
+121;DE258;09573;BY;;;3;Fürth, Landkreis;  25 388  ;  23 063  ;117
+122;DE259;09574;BY;;;3;Nürnberger Land, Landkreis;  25 830  ;  32 104  ;170
+123;DE25A;09575;BY;;;3;Neustadt a.d.Aisch-Bad Windsheim, Landkreis;  23 283  ;  30 191  ;100
+124;DE25B;09576;BY;;;3;Roth, Landkreis;  24 605  ;  29 704  ;127
+125;DE25C;09577;BY;;;3;Weißenburg-Gunzenhausen, Landkreis;  22 892  ;  32 063  ;94
+126;DE26;096;BY;;2;;Unterfranken, Regierungsbezirk;  23 510  ;  40 948  ;1315
+127;DE261;09661;BY;;;3;Aschaffenburg, Kreisfreie Stadt;  24 114  ;  74 500  ;70
+128;DE262;09662;BY;;;3;Schweinfurt, Kreisfreie Stadt;  21 029  ;  105 637  ;54
+129;DE263;09663;BY;;;3;Würzburg, Kreisfreie Stadt;  24 272  ;  64 131  ;127
+130;DE264;09671;BY;;;3;Aschaffenburg, Landkreis;  24 745  ;  33 636  ;174
+131;DE265;09672;BY;;;3;Bad Kissingen, Landkreis;  22 814  ;  32 687  ;103
+132;DE266;09673;BY;;;3;Rhön-Grabfeld, Landkreis;  23 050  ;  40 565  ;80
+133;DE267;09674;BY;;;3;Haßberge, Landkreis;  22 335  ;  32 371  ;85
+134;DE268;09675;BY;;;3;Kitzingen, Landkreis;  23 553  ;  35 519  ;91
+135;DE269;09676;BY;;;3;Miltenberg, Landkreis;  23 343  ;  34 398  ;129
+136;DE26A;09677;BY;;;3;Main-Spessart, Landkreis;  23 587  ;  37 038  ;126
+137;DE26B;09678;BY;;;3;Schweinfurt, Landkreis;  23 143  ;  22 360  ;115
+138;DE26C;09679;BY;;;3;Würzburg, Landkreis;  23 740  ;  28 984  ;162
+139;DE27;097;BY;;2;;Schwaben, Regierungsbezirk;  24 046  ;  39 913  ;1881
+140;DE271;09761;BY;;;3;Augsburg, Kreisfreie Stadt;  20 053  ;  49 447  ;294
+141;DE272;09762;BY;;;3;Kaufbeuren, Kreisfreie Stadt;  22 598  ;  38 941  ;44
+142;DE273;09763;BY;;;3;Kempten (Allgäu), Kreisfreie Stadt;  22 064  ;  53 324  ;69
+143;DE274;09764;BY;;;3;Memmingen, Kreisfreie Stadt;  27 460  ;  62 187  ;44
+144;DE275;09771;BY;;;3;Aichach-Friedberg, Landkreis;  25 751  ;  27 711  ;133
+145;DE276;09772;BY;;;3;Augsburg, Landkreis;  25 088  ;  30 442  ;251
+146;DE277;09773;BY;;;3;Dillingen a.d.Donau, Landkreis;  24 400  ;  35 736  ;96
+147;DE278;09774;BY;;;3;Günzburg, Landkreis;  24 434  ;  45 057  ;125
+148;DE279;09775;BY;;;3;Neu-Ulm, Landkreis;  24 479  ;  39 233  ;173
+149;DE27A;09776;BY;;;3;Lindau (Bodensee), Landkreis;  26 816  ;  37 939  ;81
+150;DE27B;09777;BY;;;3;Ostallgäu, Landkreis;  23 686  ;  36 140  ;140
+151;DE27C;09778;BY;;;3;Unterallgäu, Landkreis;  25 277  ;  38 173  ;143
+152;DE27D;09779;BY;;;3;Donau-Ries, Landkreis;  25 092  ;  49 613  ;133
+153;DE27E;09780;BY;;;3;Oberallgäu, Landkreis;  24 617  ;  32 572  ;155
+154;DE3;11;BE;1;2;3;Berlin;  20 972  ;  40 105  ;3629
+155;DE4;12;BB;1;2;;Brandenburg;  20 475  ;  28 670  ;2508
+156;DE401;12051;BB;;;3;Brandenburg an der Havel, Kreisfreie Stadt;  18 473  ;  31 709  ;72
+157;DE402;12052;BB;;;3;Cottbus, Kreisfreie Stadt;  19 172  ;  35 063  ;101
+158;DE403;12053;BB;;;3;Frankfurt (Oder), Kreisfreie Stadt;  18 263  ;  37 277  ;58
+159;DE404;12054;BB;;;3;Potsdam, Kreisfreie Stadt;  21 208  ;  42 440  ;177
+160;DE405;12060;BB;;;3;Barnim, Landkreis;  20 779  ;  22 033  ;182
+161;DE406;12061;BB;;;3;Dahme-Spreewald, Landkreis;  21 267  ;  33 496  ;168
+162;DE407;12062;BB;;;3;Elbe-Elster, Landkreis;  19 046  ;  24 692  ;103
+163;DE408;12063;BB;;;3;Havelland, Landkreis;  20 533  ;  20 987  ;161
+164;DE409;12064;BB;;;3;Märkisch-Oderland, Landkreis;  20 684  ;  21 456  ;194
+165;DE40A;12065;BB;;;3;Oberhavel, Landkreis;  21 315  ;  26 698  ;211
+166;DE40B;12066;BB;;;3;Oberspreewald-Lausitz, Landkreis;  19 809  ;  27 714  ;111
+167;DE40C;12067;BB;;;3;Oder-Spree, Landkreis;  20 685  ;  26 028  ;179
+168;DE40D;12068;BB;;;3;Ostprignitz-Ruppin, Landkreis;  19 058  ;  26 568  ;99
+169;DE40E;12069;BB;;;3;Potsdam-Mittelmark, Landkreis;  23 093  ;  25 317  ;214
+170;DE40F;12070;BB;;;3;Prignitz, Landkreis;  19 218  ;  26 555  ;77
+171;DE40G;12071;BB;;;3;Spree-Neiße, Landkreis;  20 450  ;  32 674  ;115
+172;DE40H;12072;BB;;;3;Teltow-Fläming, Landkreis;  20 241  ;  35 603  ;168
+173;DE40I;12073;BB;;;3;Uckermark, Landkreis;  18 493  ;  29 519  ;120
+174;DE5;04;HB;1;2;;Bremen;  21 481  ;  48 144  ;682
+175;DE501;04011;HB;;;3;Bremen, Kreisfreie Stadt; …  ;  50 675  ;569
+176;DE502;04012;HB;;;3;Bremerhaven, Kreisfreie Stadt; …  ;  35 448  ;113
+177;DE6;02;HH;1;2;3;Hamburg;  25 029  ;  64 771  ;1836
+178;DE7;06;HE;1;;;Hessen;  23 943  ;  45 700  ;6255
+179;DE71;064;HE;;2;;Darmstadt, Regierungsbezirk;  24 955  ;  51 441  ;3988
+180;DE711;06411;HE;;;3;Darmstadt, Wissenschaftsstadt, Kreisfreie Stadt;  23 290  ;  77 892  ;159
+181;DE712;06412;HE;;;3;Frankfurt am Main, Kreisfreie Stadt;  23 436  ;  94 190  ;750
+182;DE713;06413;HE;;;3;Offenbach am Main, Kreisfreie Stadt;  18 739  ;  37 008  ;128
+183;DE714;06414;HE;;;3;Wiesbaden, Landeshauptstadt, Kreisfreie Stadt;  25 338  ;  63 527  ;278
+184;DE715;06431;HE;;;3;Bergstraße, Landkreis;  24 752  ;  28 488  ;269
+185;DE716;06432;HE;;;3;Darmstadt-Dieburg, Landkreis;  24 905  ;  28 834  ;297
+186;DE717;06433;HE;;;3;Groß-Gerau, Landkreis;  22 014  ;  45 716  ;273
+187;DE718;06434;HE;;;3;Hochtaunuskreis;  35 041  ;  49 268  ;236
+188;DE719;06435;HE;;;3;Main-Kinzig-Kreis;  24 607  ;  36 532  ;419
+189;DE71A;06436;HE;;;3;Main-Taunus-Kreis;  28 550  ;  55 311  ;237
+190;DE71B;06437;HE;;;3;Odenwaldkreis;  22 564  ;  26 668  ;97
+191;DE71C;06438;HE;;;3;Offenbach, Landkreis;  24 880  ;  41 103  ;353
+192;DE71D;06439;HE;;;3;Rheingau-Taunus-Kreis;  26 153  ;  25 798  ;187
+193;DE71E;06440;HE;;;3;Wetteraukreis;  24 647  ;  29 667  ;306
+194;DE72;065;HE;;2;;Gießen, Regierungsbezirk;  22 314  ;  34 503  ;1047
+195;DE721;06531;HE;;;3;Gießen, Landkreis;  21 363  ;  36 057  ;268
+196;DE722;06532;HE;;;3;Lahn-Dill-Kreis;  23 693  ;  34 525  ;254
+197;DE723;06533;HE;;;3;Limburg-Weilburg, Landkreis;  22 913  ;  30 732  ;172
+198;DE724;06534;HE;;;3;Marburg-Biedenkopf, Landkreis;  21 581  ;  38 530  ;246
+199;DE725;06535;HE;;;3;Vogelsbergkreis;  22 146  ;  27 295  ;106
+200;DE73;066;HE;;2;;Kassel, Regierungsbezirk;  22 029  ;  36 534  ;1220
+201;DE731;06611;HE;;;3;Kassel, documenta-Stadt, Kreisfreie Stadt;  19 781  ;  51 960  ;201
+202;DE732;06631;HE;;;3;Fulda, Landkreis;  22 798  ;  37 818  ;222
+203;DE733;06632;HE;;;3;Hersfeld-Rotenburg, Landkreis;  21 905  ;  36 666  ;121
+204;DE734;06633;HE;;;3;Kassel, Landkreis;  23 090  ;  30 500  ;237
+205;DE735;06634;HE;;;3;Schwalm-Eder-Kreis;  22 399  ;  31 001  ;180
+206;DE736;06635;HE;;;3;Waldeck-Frankenberg, Landkreis;  22 456  ;  37 673  ;157
+207;DE737;06636;HE;;;3;Werra-Meißner-Kreis;  21 156  ;  25 085  ;101
+208;DE8;13;MV;1;2;;Mecklenburg-Vorpommern;  19 470  ;  27 747  ;1610
+209;DE803;13003;MV;;;3;Rostock, Hansestadt, Kreisfreie Stadt;  18 905  ;  36 270  ;209
+210;DE804;13004;MV;;;3;Schwerin, Landeshauptstadt, Kreisfreie Stadt;  19 724  ;  39 728  ;96
+211;DE80J;13071;MV;;;3;Mecklenburgische Seenplatte, Landkreis;  19 235  ;  27 545  ;260
+212;DE80K;13072;MV;;;3;Landkreis Rostock;  20 421  ;  25 731  ;215
+213;DE80L;13073;MV;;;3;Vorpommern-Rügen, Landkreis;  19 462  ;  25 090  ;225
+214;DE80M;13074;MV;;;3;Nordwestmecklenburg, Landkreis;  19 643  ;  23 919  ;157
+215;DE80N;13075;MV;;;3;Vorpommern-Greifswald, Landkreis;  18 491  ;  25 229  ;237
+216;DE80O;13076;MV;;;3;Ludwigslust-Parchim, Landkreis;  20 206  ;  24 707  ;213
+217;DE9;03;NI;1;;;Niedersachsen;  21 988  ;  37 290  ;7973
+218;DE91;031;NI;;2;;Statistische Region Braunschweig;  22 319  ;  49 121  ;1596
+219;DE911;03101;NI;;;3;Braunschweig, Kreisfreie Stadt;  22 612  ;  78 057  ;248
+220;DE912;03102;NI;;;3;Salzgitter, Kreisfreie Stadt;  20 016  ;  56 347  ;105
+221;DE913;03103;NI;;;3;Wolfsburg, Kreisfreie Stadt;  24 712  ;  182 301  ;124
+222;DE914;03151;NI;;;3;Gifhorn, Landkreis;  23 879  ;  20 973  ;176
+223;DE916;03153;NI;;;3;Goslar, Landkreis;  21 306  ;  29 980  ;137
+224;DE917;03154;NI;;;3;Helmstedt, Landkreis;  23 466  ;  19 673  ;92
+225;DE918;03155;NI;;;3;Northeim, Landkreis;  22 303  ;  28 755  ;133
+226;DE91A;03157;NI;;;3;Peine, Landkreis;  22 202  ;  21 883  ;134
+227;DE91B;03158;NI;;;3;Wolfenbüttel, Landkreis;  22 655  ;  20 363  ;120
+228;DE91C;03159;NI;;;3;Göttingen, Landkreis;  21 130  ;  35 738  ;328
+229;DE92;032;NI;;2;;Statistische Region Hannover;  21 974  ;  38 324  ;2147
+230;DE922;03251;NI;;;3;Diepholz, Landkreis;  23 428  ;  30 240  ;216
+231;DE923;03252;NI;;;3;Hameln-Pyrmont, Landkreis;  22 142  ;  34 198  ;148
+232;DE925;03254;NI;;;3;Hildesheim, Landkreis;  21 685  ;  28 772  ;277
+233;DE926;03255;NI;;;3;Holzminden, Landkreis;  21 438  ;  31 447  ;71
+234;DE927;03256;NI;;;3;Nienburg (Weser), Landkreis;  21 191  ;  30 712  ;121
+235;DE928;03257;NI;;;3;Schaumburg, Landkreis;  22 019  ;  25 855  ;158
+236;DE929;03241;NI;;;3;Region Hannover, Landkreis;  21 859  ;  45 583  ;1155
+237;DE93;033;NI;;2;;Statistische Region Lüneburg;  22 671  ;  27 900  ;1709
+238;DE931;03351;NI;;;3;Celle, Landkreis;  21 170  ;  30 028  ;179
+239;DE932;03352;NI;;;3;Cuxhaven, Landkreis;  22 110  ;  23 007  ;198
+240;DE933;03353;NI;;;3;Harburg, Landkreis;  25 687  ;  24 359  ;252
+241;DE934;03354;NI;;;3;Lüchow-Dannenberg, Landkreis;  20 823  ;  26 222  ;48
+242;DE935;03355;NI;;;3;Lüneburg, Landkreis;  21 334  ;  28 100  ;183
+243;DE936;03356;NI;;;3;Osterholz, Landkreis;  23 123  ;  20 451  ;113
+244;DE937;03357;NI;;;3;Rotenburg (Wümme), Landkreis;  22 600  ;  32 221  ;163
+245;DE938;03358;NI;;;3;Heidekreis, Landkreis;  21 370  ;  33 718  ;139
+246;DE939;03359;NI;;;3;Stade, Landkreis;  23 076  ;  30 133  ;202
+247;DE93A;03360;NI;;;3;Uelzen, Landkreis;  21 172  ;  27 820  ;93
+248;DE93B;03361;NI;;;3;Verden, Landkreis;  23 780  ;  30 886  ;137
+249;DE94;034;NI;;2;;Statistische Region Weser-Ems;  21 329  ;  35 284  ;2521
+250;DE941;03401;NI;;;3;Delmenhorst, Kreisfreie Stadt;  19 411  ;  22 930  ;78
+251;DE942;03402;NI;;;3;Emden, Kreisfreie Stadt;  19 003  ;  72 973  ;50
+252;DE943;03403;NI;;;3;Oldenburg (Oldenburg), Kreisfreie Stadt;  20 091  ;  46 404  ;168
+253;DE944;03404;NI;;;3;Osnabrück, Kreisfreie Stadt;  21 428  ;  49 817  ;165
+254;DE945;03405;NI;;;3;Wilhelmshaven, Kreisfreie Stadt;  18 511  ;  41 479  ;76
+255;DE946;03451;NI;;;3;Ammerland, Landkreis;  22 451  ;  31 167  ;124
+256;DE947;03452;NI;;;3;Aurich, Landkreis;  20 679  ;  26 750  ;190
+257;DE948;03453;NI;;;3;Cloppenburg, Landkreis;  20 747  ;  34 197  ;169
+258;DE949;03454;NI;;;3;Emsland, Landkreis;  21 529  ;  41 401  ;325
+259;DE94A;03455;NI;;;3;Friesland, Landkreis;  21 071  ;  27 499  ;98
+260;DE94B;03456;NI;;;3;Grafschaft Bentheim, Landkreis;  20 452  ;  31 947  ;136
+261;DE94C;03457;NI;;;3;Leer, Landkreis;  19 703  ;  25 770  ;169
+262;DE94D;03458;NI;;;3;Oldenburg, Landkreis;  23 338  ;  24 396  ;130
+263;DE94E;03459;NI;;;3;Osnabrück, Landkreis;  23 030  ;  30 622  ;357
+264;DE94F;03460;NI;;;3;Vechta, Landkreis;  22 694  ;  45 050  ;141
+265;DE94G;03461;NI;;;3;Wesermarsch, Landkreis;  21 936  ;  32 309  ;89
+266;DE94H;03462;NI;;;3;Wittmund, Landkreis;  21 235  ;  25 711  ;57
+267;DEA;05;NW;1;;;Nordrhein-Westfalen;  22 294  ;  38 769  ;17922
+268;DEA1;051;NW;;2;;Düsseldorf, Regierungsbezirk;  22 348  ;  41 202  ;5201
+269;DEA11;05111;NW;;;3;Düsseldorf, Kreisfreie Stadt;  26 087  ;  81 563  ;618
+270;DEA12;05112;NW;;;3;Duisburg, Kreisfreie Stadt;  17 126  ;  36 475  ;498
+271;DEA13;05113;NW;;;3;Essen, Kreisfreie Stadt;  20 626  ;  43 365  ;583
+272;DEA14;05114;NW;;;3;Krefeld, Kreisfreie Stadt;  21 591  ;  40 593  ;227
+273;DEA15;05116;NW;;;3;Mönchengladbach, Kreisfreie Stadt;  20 841  ;  33 785  ;262
+274;DEA16;05117;NW;;;3;Mülheim an der Ruhr, Kreisfreie Stadt;  23 153  ;  35 115  ;171
+275;DEA17;05119;NW;;;3;Oberhausen, Kreisfreie Stadt;  18 719  ;  27 191  ;211
+276;DEA18;05120;NW;;;3;Remscheid, Kreisfreie Stadt;  22 325  ;  36 391  ;111
+277;DEA19;05122;NW;;;3;Solingen, Kreisfreie Stadt;  23 285  ;  31 642  ;159
+278;DEA1A;05124;NW;;;3;Wuppertal, Kreisfreie Stadt;  21 480  ;  36 429  ;354
+279;DEA1B;05154;NW;;;3;Kleve, Kreis;  20 716  ;  30 752  ;311
+280;DEA1C;05158;NW;;;3;Mettmann, Kreis;  25 684  ;  40 547  ;486
+281;DEA1D;05162;NW;;;3;Rhein-Kreis Neuss, Kreis;  25 324  ;  39 371  ;450
+282;DEA1E;05166;NW;;;3;Viersen, Kreis;  23 204  ;  28 457  ;299
+283;DEA1F;05170;NW;;;3;Wesel, Kreis;  22 230  ;  28 520  ;460
+284;DEA2;053;NW;;2;;Köln, Regierungsbezirk;  22 582  ;  42 661  ;4462
+285;DEA22;05314;NW;;;3;Bonn, Kreisfreie Stadt;  23 471  ;  80 288  ;326
+286;DEA23;05315;NW;;;3;Köln, Kreisfreie Stadt;  22 402  ;  59 588  ;1083
+287;DEA24;05316;NW;;;3;Leverkusen, Kreisfreie Stadt;  21 756  ;  51 469  ;164
+288;DEA26;05358;NW;;;3;Düren, Kreis;  21 194  ;  29 629  ;263
+289;DEA27;05362;NW;;;3;Rhein-Erft-Kreis;  22 675  ;  34 641  ;469
+290;DEA28;05366;NW;;;3;Euskirchen, Kreis;  21 862  ;  27 863  ;192
+291;DEA29;05370;NW;;;3;Heinsberg, Kreis;  20 631  ;  25 720  ;254
+292;DEA2A;05374;NW;;;3;Oberbergischer Kreis;  23 194  ;  36 181  ;273
+293;DEA2B;05378;NW;;;3;Rheinisch-Bergischer Kreis;  26 493  ;  27 168  ;283
+294;DEA2C;05382;NW;;;3;Rhein-Sieg-Kreis;  24 038  ;  28 026  ;599
+295;DEA2D;05334;NW;;;3;Städteregion Aachen, Kreis;  20 504  ;  37 631  ;555
+296;DEA3;055;NW;;2;;Münster, Regierungsbezirk;  21 597  ;  33 154  ;2622
+297;DEA31;05512;NW;;;3;Bottrop, Kreisfreie Stadt;  20 250  ;  22 740  ;117
+298;DEA32;05513;NW;;;3;Gelsenkirchen, Kreisfreie Stadt;  16 450  ;  30 248  ;260
+299;DEA33;05515;NW;;;3;Münster, Kreisfreie Stadt;  22 954  ;  55 003  ;314
+300;DEA34;05554;NW;;;3;Borken, Kreis;  22 433  ;  37 294  ;370
+301;DEA35;05558;NW;;;3;Coesfeld, Kreis;  23 879  ;  28 523  ;220
+302;DEA36;05562;NW;;;3;Recklinghausen, Kreis;  20 426  ;  25 763  ;616
+303;DEA37;05566;NW;;;3;Steinfurt, Kreis;  22 402  ;  32 470  ;447
+304;DEA38;05570;NW;;;3;Warendorf, Kreis;  23 839  ;  31 221  ;278
+305;DEA4;057;NW;;2;;Detmold, Regierungsbezirk;  23 033  ;  38 172  ;2055
+306;DEA41;05711;NW;;;3;Bielefeld, Kreisfreie Stadt;  23 037  ;  41 016  ;333
+307;DEA42;05754;NW;;;3;Gütersloh, Kreis;  25 241  ;  48 500  ;364
+308;DEA43;05758;NW;;;3;Herford, Kreis;  22 732  ;  33 880  ;251
+309;DEA44;05762;NW;;;3;Höxter, Kreis;  22 021  ;  28 440  ;141
+310;DEA45;05766;NW;;;3;Lippe, Kreis;  22 592  ;  30 573  ;349
+311;DEA46;05770;NW;;;3;Minden-Lübbecke, Kreis;  23 052  ;  41 627  ;311
+312;DEA47;05774;NW;;;3;Paderborn, Kreis;  21 601  ;  35 962  ;306
+313;DEA5;059;NW;;2;;Arnsberg, Regierungsbezirk;  21 945  ;  34 846  ;3583
+314;DEA51;05911;NW;;;3;Bochum, Kreisfreie Stadt;  20 048  ;  33 171  ;365
+315;DEA52;05913;NW;;;3;Dortmund, Kreisfreie Stadt;  19 318  ;  38 469  ;587
+316;DEA53;05914;NW;;;3;Hagen, Kreisfreie Stadt;  20 024  ;  34 831  ;188
+317;DEA54;05915;NW;;;3;Hamm, Kreisfreie Stadt;  18 453  ;  29 631  ;179
+318;DEA55;05916;NW;;;3;Herne, Kreisfreie Stadt;  17 889  ;  23 188  ;156
+319;DEA56;05954;NW;;;3;Ennepe-Ruhr-Kreis;  24 441  ;  30 469  ;324
+320;DEA57;05958;NW;;;3;Hochsauerlandkreis;  24 345  ;  36 719  ;261
+321;DEA58;05962;NW;;;3;Märkischer Kreis;  24 762  ;  37 313  ;413
+322;DEA59;05966;NW;;;3;Olpe, Kreis;  28 007  ;  41 197  ;135
+323;DEA5A;05970;NW;;;3;Siegen-Wittgenstein, Kreis;  23 302  ;  40 775  ;278
+324;DEA5B;05974;NW;;;3;Soest, Kreis;  22 746  ;  35 976  ;302
+325;DEA5C;05978;NW;;;3;Unna, Kreis;  21 494  ;  30 568  ;394
+326;DEB;07;RP;1;;;Rheinland-Pfalz;  23 197  ;  35 216  ;4079
+327;DEB1;071;RP;;2;;Statistische Region Koblenz;  23 297  ;  33 598  ;1494
+328;DEB11;07111;RP;;;3;Koblenz, Kreisfreie Stadt;  21 953  ;  68 464  ;114
+329;DEB12;07131;RP;;;3;Ahrweiler, Landkreis;  23 954  ;  26 654  ;129
+330;DEB13;07132;RP;;;3;Altenkirchen (Westerwald), Landkreis;  22 104  ;  27 343  ;129
+331;DEB14;07133;RP;;;3;Bad Kreuznach, Landkreis;  22 561  ;  29 988  ;158
+332;DEB15;07134;RP;;;3;Birkenfeld, Landkreis;  22 010  ;  29 477  ;81
+333;DEB17;07137;RP;;;3;Mayen-Koblenz, Landkreis;  22 718  ;  31 345  ;214
+334;DEB18;07138;RP;;;3;Neuwied, Landkreis;  23 438  ;  32 960  ;182
+335;DEB1A;07141;RP;;;3;Rhein-Lahn-Kreis;  22 578  ;  26 631  ;122
+336;DEB1B;07143;RP;;;3;Westerwaldkreis;  26 109  ;  33 918  ;201
+337;DEB1C;07135;RP;;;3;Cochem-Zell, Landkreis;  22 784  ;  30 299  ;62
+338;DEB1D;07140;RP;;;3;Rhein-Hunsrück-Kreis;  24 205  ;  35 764  ;103
+339;DEB2;072;RP;;2;;Statistische Region Trier;  22 656  ;  30 588  ;530
+340;DEB21;07211;RP;;;3;Trier, Kreisfreie Stadt;  21 216  ;  44 579  ;110
+341;DEB22;07231;RP;;;3;Bernkastel-Wittlich, Landkreis;  22 627  ;  31 352  ;112
+342;DEB23;07232;RP;;;3;Eifelkreis Bitburg-Prüm;  22 680  ;  28 320  ;98
+343;DEB24;07233;RP;;;3;Vulkaneifel, Landkreis;  22 332  ;  33 245  ;61
+344;DEB25;07235;RP;;;3;Trier-Saarburg, Landkreis;  23 861  ;  20 050  ;149
+345;DEB3;073;RP;;2;;Statistische Region Rheinhessen-Pfalz;  23 264  ;  37 588  ;2054
+346;DEB31;07311;RP;;;3;Frankenthal (Pfalz), Kreisfreie Stadt;  21 859  ;  33 805  ;48
+347;DEB32;07312;RP;;;3;Kaiserslautern, Kreisfreie Stadt;  19 288  ;  48 336  ;100
+348;DEB33;07313;RP;;;3;Landau in der Pfalz, Kreisfreie Stadt;  21 619  ;  42 662  ;46
+349;DEB34;07314;RP;;;3;Ludwigshafen am Rhein, Kreisfreie Stadt;  19 842  ;  81 349  ;170
+350;DEB35;07315;RP;;;3;Mainz, Kreisfreie Stadt;  22 597  ;  57 120  ;216
+351;DEB36;07316;RP;;;3;Neustadt an der Weinstraße, Kreisfreie Stadt;  25 966  ;  31 432  ;53
+352;DEB37;07317;RP;;;3;Pirmasens, Kreisfreie Stadt;  19 741  ;  37 291  ;41
+353;DEB38;07318;RP;;;3;Speyer, Kreisfreie Stadt;  25 219  ;  52 749  ;51
+354;DEB39;07319;RP;;;3;Worms, Kreisfreie Stadt;  21 280  ;  38 324  ;83
+355;DEB3A;07320;RP;;;3;Zweibrücken, Kreisfreie Stadt;  20 654  ;  49 723  ;34
+356;DEB3B;07331;RP;;;3;Alzey-Worms, Landkreis;  23 385  ;  25 544  ;129
+357;DEB3C;07332;RP;;;3;Bad Dürkheim, Landkreis;  26 863  ;  22 551  ;133
+358;DEB3D;07333;RP;;;3;Donnersbergkreis;  22 077  ;  29 103  ;75
+359;DEB3E;07334;RP;;;3;Germersheim, Landkreis;  23 173  ;  37 489  ;129
+360;DEB3F;07335;RP;;;3;Kaiserslautern, Landkreis;  21 713  ;  20 527  ;106
+361;DEB3G;07336;RP;;;3;Kusel, Landkreis;  21 080  ;  17 702  ;71
+362;DEB3H;07337;RP;;;3;Südliche Weinstraße, Landkreis;  24 538  ;  27 569  ;110
+363;DEB3I;07338;RP;;;3;Rhein-Pfalz-Kreis;  26 784  ;  20 074  ;154
+364;DEB3J;07339;RP;;;3;Mainz-Bingen, Landkreis;  26 326  ;  35 480  ;210
+365;DEB3K;07340;RP;;;3;Südwestpfalz, Landkreis;  23 469  ;  16 320  ;95
+366;DEC;10;SL;1;2;;Saarland;  20 277  ;  35 985  ;992
+367;DEC01;10041;SL;;;3;Saarbrücken, Regionalverband;  19 205  ;  44 904  ;330
+368;DEC02;10042;SL;;;3;Merzig-Wadern, Landkreis;  18 790  ;  26 973  ;104
+369;DEC03;10043;SL;;;3;Neunkirchen, Landkreis;  19 925  ;  25 526  ;133
+370;DEC04;10044;SL;;;3;Saarlouis, Landkreis;  20 819  ;  32 688  ;196
+371;DEC05;10045;SL;;;3;Saarpfalz-Kreis;  22 452  ;  39 674  ;143
+372;DEC06;10046;SL;;;3;St. Wendel, Landkreis;  21 849  ;  30 233  ;88
+373;DED;14;SN;1;;;Sachsen;  20 335  ;  30 487  ;4080
+374;DED2;146;SN;;2;;Dresden, NUTS 2-Region;  20 415  ;  31 087  ;1598
+375;DED21;14612;SN;;;3;Dresden, Kreisfreie Stadt;  20 112  ;  40 524  ;553
+376;DED2C;14625;SN;;;3;Bautzen, Landkreis;  20 632  ;  26 384  ;302
+377;DED2D;14626;SN;;;3;Görlitz, Landkreis;  19 486  ;  26 380  ;256
+378;DED2E;14627;SN;;;3;Meißen, Landkreis;  21 310  ;  27 919  ;243
+379;DED2F;14628;SN;;;3;Sächsische Schweiz-Osterzgebirge, Landkreis;  20 914  ;  23 650  ;246
+380;DED4;145;SN;;2;;Chemnitz, NUTS 2-Region;  20 601  ;  28 472  ;1441
+381;DED41;14511;SN;;;3;Chemnitz, Kreisfreie Stadt;  20 366  ;  35 961  ;247
+382;DED42;14521;SN;;;3;Erzgebirgskreis;  20 492  ;  23 770  ;339
+383;DED43;14522;SN;;;3;Mittelsachsen, Landkreis;  20 571  ;  27 181  ;307
+384;DED44;14523;SN;;;3;Vogtlandkreis;  20 424  ;  25 660  ;229
+385;DED45;14524;SN;;;3;Zwickau, Landkreis;  21 056  ;  30 930  ;319
+386;DED5;147;SN;;2;;Leipzig, NUTS 2-Region;  19 842  ;  32 354  ;1041
+387;DED51;14713;SN;;;3;Leipzig, Kreisfreie Stadt;  18 825  ;  36 761  ;585
+388;DED52;14729;SN;;;3;Leipzig, Landkreis;  21 768  ;  26 107  ;258
+389;DED53;14730;SN;;;3;Nordsachsen, Landkreis;  20 340  ;  27 465  ;198
+390;DEE;15;ST;1;2;;Sachsen-Anhalt;  19 528  ;  27 872  ;2216
+391;DEE01;15001;ST;;;3;Dessau-Roßlau, Kreisfreie Stadt;  20 043  ;  29 610  ;82
+392;DEE02;15002;ST;;;3;Halle (Saale), Kreisfreie Stadt;  17 828  ;  30 955  ;239
+393;DEE03;15003;ST;;;3;Magdeburg, Landeshauptstadt, Kreisfreie Stadt;  18 904  ;  34 525  ;239
+394;DEE04;15081;ST;;;3;Altmarkkreis Salzwedel;  20 083  ;  23 817  ;84
+395;DEE05;15082;ST;;;3;Anhalt-Bitterfeld, Landkreis;  19 584  ;  28 685  ;161
+396;DEE06;15086;ST;;;3;Jerichower Land, Landkreis;  20 518  ;  25 502  ;90
+397;DEE07;15083;ST;;;3;Börde, Landkreis;  20 694  ;  28 194  ;172
+398;DEE08;15084;ST;;;3;Burgenlandkreis;  19 649  ;  25 162  ;181
+399;DEE09;15085;ST;;;3;Harz, Landkreis;  19 907  ;  24 019  ;215
+400;DEE0A;15087;ST;;;3;Mansfeld-Südharz, Landkreis;  19 092  ;  20 711  ;137
+401;DEE0B;15088;ST;;;3;Saalekreis;  20 601  ;  35 168  ;185
+402;DEE0C;15089;ST;;;3;Salzlandkreis;  19 095  ;  24 888  ;192
+403;DEE0D;15090;ST;;;3;Stendal, Landkreis;  18 947  ;  25 787  ;113
+404;DEE0E;15091;ST;;;3;Wittenberg, Landkreis;  20 118  ;  25 180  ;126
+405;DEF;01;SH;1;2;;Schleswig-Holstein;  22 833  ;  32 721  ;2893
+406;DEF01;01001;SH;;;3;Flensburg, Kreisfreie Stadt;  18 773  ;  42 364  ;89
+407;DEF02;01002;SH;;;3;Kiel, Landeshauptstadt, Kreisfreie Stadt;  19 392  ;  47 639  ;248
+408;DEF03;01003;SH;;;3;Lübeck, Hansestadt, Kreisfreie Stadt;  20 120  ;  43 769  ;217
+409;DEF04;01004;SH;;;3;Neumünster, Kreisfreie Stadt;  19 775  ;  43 260  ;79
+410;DEF05;01051;SH;;;3;Dithmarschen, Kreis;  22 498  ;  34 320  ;133
+411;DEF06;01053;SH;;;3;Herzogtum Lauenburg, Kreis;  23 652  ;  23 445  ;197
+412;DEF07;01054;SH;;;3;Nordfriesland, Kreis;  25 129  ;  34 094  ;165
+413;DEF08;01055;SH;;;3;Ostholstein, Kreis;  23 179  ;  26 919  ;201
+414;DEF09;01056;SH;;;3;Pinneberg, Kreis;  24 708  ;  29 803  ;314
+415;DEF0A;01057;SH;;;3;Plön, Kreis;  23 369  ;  20 052  ;129
+416;DEF0B;01058;SH;;;3;Rendsburg-Eckernförde, Kreis;  23 410  ;  29 036  ;273
+417;DEF0C;01059;SH;;;3;Schleswig-Flensburg, Kreis;  22 510  ;  26 193  ;200
+418;DEF0D;01060;SH;;;3;Segeberg, Kreis;  23 323  ;  31 249  ;275
+419;DEF0E;01061;SH;;;3;Steinburg, Kreis;  21 991  ;  30 974  ;131
+420;DEF0F;01062;SH;;;3;Stormarn, Kreis;  25 737  ;  33 758  ;243
+421;DEG;16;TH;1;2;;Thüringen;  19 793  ;  28 987  ;2147
+422;DEG01;16051;TH;;;3;Erfurt, Kreisfreie Stadt;  19 333  ;  39 715  ;213
+423;DEG02;16052;TH;;;3;Gera, Kreisfreie Stadt;  19 558  ;  28 613  ;95
+424;DEG03;16053;TH;;;3;Jena, Kreisfreie Stadt;  18 919  ;  44 877  ;111
+425;DEG04;16054;TH;;;3;Suhl, Kreisfreie Stadt;  22 371  ;  34 808  ;35
+426;DEG05;16055;TH;;;3;Weimar, Kreisfreie Stadt;  19 090  ;  30 601  ;65
+427;DEG06;16061;TH;;;3;Eichsfeld, Landkreis;  20 065  ;  26 132  ;101
+428;DEG07;16062;TH;;;3;Nordhausen, Landkreis;  18 907  ;  26 641  ;84
+429;DEG09;16064;TH;;;3;Unstrut-Hainich-Kreis;  18 942  ;  24 945  ;103
+430;DEG0A;16065;TH;;;3;Kyffhäuserkreis;  18 508  ;  22 297  ;75
+431;DEG0B;16066;TH;;;3;Schmalkalden-Meiningen, Landkreis;  20 946  ;  28 162  ;123
+432;DEG0C;16067;TH;;;3;Gotha, Landkreis;  19 593  ;  28 203  ;135
+433;DEG0D;16068;TH;;;3;Sömmerda, Landkreis;  19 482  ;  25 486  ;70
+434;DEG0E;16069;TH;;;3;Hildburghausen, Landkreis;  20 495  ;  23 196  ;64
+435;DEG0F;16070;TH;;;3;Ilm-Kreis;  19 306  ;  29 102  ;109
+436;DEG0G;16071;TH;;;3;Weimarer Land, Landkreis;  19 800  ;  24 517  ;82
+437;DEG0H;16072;TH;;;3;Sonneberg, Landkreis;  21 140  ;  29 046  ;56
+438;DEG0I;16073;TH;;;3;Saalfeld-Rudolstadt, Landkreis;  19 922  ;  26 397  ;107
+439;DEG0J;16074;TH;;;3;Saale-Holzland-Kreis;  20 183  ;  23 262  ;83
+440;DEG0K;16075;TH;;;3;Saale-Orla-Kreis;  19 740  ;  27 482  ;81
+441;DEG0L;16076;TH;;;3;Greiz, Landkreis;  20 392  ;  23 940  ;99
+442;DEG0M;16077;TH;;;3;Altenburger Land, Landkreis;  19 883  ;  22 319  ;90
+443;DEG0N;16056;TH;;;3;Eisenach, Kreisfreie Stadt;  19 639  ;  39 401  ;43
+444;DEG0P;16063;TH;;;3;Wartburgkreis;  20 932  ;  27 208  ;123
+445;DE;17;D;0;;;Deutschland;  22 899  ;  40 339  ;82906
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
